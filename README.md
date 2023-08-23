@@ -1,1 +1,5 @@
-# Jake's Robotics Portfoio
+# Jake's Robotics Portfolio
+
+description of bot...
+
+![Our First Plan]()
